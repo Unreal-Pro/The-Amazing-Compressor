@@ -1,4 +1,4 @@
-I created in response to a YouTube short saying that you cannot compress a file into a single byte
+I created this in response to a YouTube short saying that you cannot compress a file into a single byte
 
 My friend agreed with the video, so I set out to make the best program in the world (this)
 
