@@ -3,3 +3,5 @@ I created this in response to a YouTube short saying that you cannot compress a 
 My friend agreed with the video, so I set out to make the best program in the world (this)
 
 I didn't use AI, and I know the code sucks lol
+
+Please give feedback :)
